@@ -1,0 +1,3 @@
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Release\Hava Durumu Projesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Release\Hava Durumu Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Release\Hava Durumu Projesi.csproj.CoreCompileInputs.cache

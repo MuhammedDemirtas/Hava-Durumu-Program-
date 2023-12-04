@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\bin\Debug\Hava Durumu Projesi.exe.config
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\bin\Debug\Hava Durumu Projesi.exe
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\bin\Debug\Hava Durumu Projesi.pdb
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.exe
+C:\Users\ASUS\Desktop\Görsel Programlama Proje\Hava Durumu Projesi\obj\Debug\Hava Durumu Projesi.pdb
