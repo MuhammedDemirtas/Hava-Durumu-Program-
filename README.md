@@ -3,4 +3,5 @@ Hava Durumu Projesi, C# dilinde yazılmış bir konsol uygulamasıdır. Program,
 
 # Kullanılan Kütüphaneler
 -HttpClient: HTTP istekleri göndermek ve yanıtları almak için kullanılır.
+
 -Newtonsoft.Json: JSON verilerini C# nesnelerine dönüştürmek için kullanılır.
